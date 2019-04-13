@@ -35,3 +35,8 @@ print(f(4))
 
 #obtener el valor numerico de una variable predefiida
 # float(pi)
+
+#estas seran atualizaciones de codigo realizadas por Git
+"""
+Acá esta este comentario de prueba
+"""
